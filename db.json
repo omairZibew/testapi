@@ -1,9 +1,9 @@
 {
   "posts": [
     {"id":1,"name":"Ace paracetamol suppository 250 mg","cat":"Painkiller","rx":true,"price":"10.99","img":"https://digitalpharmacyblob.blob.core.windows.net/digitalpharmacycontainer/appimages/pharmacy_5/manufacturer/0000770.jpeg"},
-    {"id":1,"name":"dolo 650","cat":"Painkiller","rx":false,"price":"5.99","img":"https://digitalpharmacyblob.blob.core.windows.net/digitalpharmacycontainer/appimages/pharmacy_5/manufacturer/0000770.jpeg"},
-    {"id":1,"name":"meftol","cat":"Painkiller","rx":true,"price":"12.99","img":"https://digitalpharmacyblob.blob.core.windows.net/digitalpharmacycontainer/appimages/pharmacy_5/manufacturer/0000770.jpeg"},
-    {"id":1,"name":"crocin","cat":"Painkiller","rx":false,"price":"1.99","img":"https://digitalpharmacyblob.blob.core.windows.net/digitalpharmacycontainer/appimages/pharmacy_5/manufacturer/0000770.jpeg"}
+    {"id":2,"name":"dolo 650","cat":"Painkiller","rx":false,"price":"5.99","img":"https://digitalpharmacyblob.blob.core.windows.net/digitalpharmacycontainer/appimages/pharmacy_5/manufacturer/0000770.jpeg"},
+    {"id":3,"name":"meftol","cat":"Painkiller","rx":true,"price":"12.99","img":"https://digitalpharmacyblob.blob.core.windows.net/digitalpharmacycontainer/appimages/pharmacy_5/manufacturer/0000770.jpeg"},
+    {"id":4,"name":"crocin","cat":"Painkiller","rx":false,"price":"1.99","img":"https://digitalpharmacyblob.blob.core.windows.net/digitalpharmacycontainer/appimages/pharmacy_5/manufacturer/0000770.jpeg"}
     
   ],
   "comments": [
