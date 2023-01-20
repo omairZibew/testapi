@@ -1,8 +1,8 @@
 {
   "posts": [
-    {"id":1,"name":"Ace paracetamol suppository 250 mg","cat":"Painkiller","rx":true,"price":"10.99","img":"https://digitalpharmacyblob.blob.core.windows.net/digitalpharmacycontainer/appimages/pharmacy_5/manufacturer/0000770.jpeg"},
-    {"id":2,"name":"Ace paracetamol suppository 250 mg","cat":"Painkiller","rx":true,"price":"10.99","img":"https://digitalpharmacyblob.blob.core.windows.net/digitalpharmacycontainer/appimages/pharmacy_5/manufacturer/0000770.jpeg"},
-   
+     { "id": 1, "name": "Ace paracetamol suppository 250 mg",  "cat" : "Painkiller", "rx": true, "price": "10.99" },
+    { "id": 2, "name": "Crocin 250 mg",  "cat" : "Painkiller", "rx": true, "price": "20.99" },
+    { "id": 3, "name": "meftol",  "cat" : "Painkiller", "rx": false, "price": "15.99" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
