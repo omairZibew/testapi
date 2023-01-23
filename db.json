@@ -5,7 +5,7 @@
     { "id": 3, "name": "meftol",  "cat" : "Painkiller", "rx": false, "price": "15.99" },
     { "id": 4, "name": "dolo",  "cat" : "Painkiller", "rx": false, "price": "5.99" }
   ],
-  "productData": 
+  "productData": {
     
                "name": "product name",
                "batchNo": ["1asda", "dsdfds", "sdfsdf"],
