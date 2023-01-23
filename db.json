@@ -17,8 +17,9 @@
     "sku": "BB125",
     "stock": 40,
     "mrp": 40,
-    "unit": 5,
-    "subUnit": 20
+    "unit": 0,
+    "subUnit": 0,
+    "spu": "10"
   }
 ]
   ,
