@@ -5,17 +5,22 @@
     { "id": 3, "name": "meftol",  "cat" : "Painkiller", "rx": false, "price": "15.99" },
     { "id": 4, "name": "dolo",  "cat" : "Painkiller", "rx": false, "price": "5.99" }
   ],
-  "productData": {
-    
-               "name": "product name",
-               "batchNo": ["1asda", "dsdfds", "sdfsdf"],
-               "expiryDate": "20-11-22",
-               "sku": "BB125",
-               "stock": 40,
-               "mrp": 40,
-               "unit": 5,
-               "subUnit": 20
-           }
+  "productData": [
+  {
+    "name": "product name",
+    "batchNo": [
+      "1asda",
+      "dsdfds",
+      "sdfsdf"
+    ],
+    "expiryDate": "20-11-22",
+    "sku": "BB125",
+    "stock": 40,
+    "mrp": 40,
+    "unit": 5,
+    "subUnit": 20
+  }
+]
   ,
   "profile": {
     "name": "typicode"
